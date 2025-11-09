@@ -5,17 +5,11 @@ A fun and interactive Python Turtle Graphics game where players bet on colorful 
 ## 🚀 Features
 
 🎯 User betting system
-
 🏁 Animated race track with start & finish lines
-
 🐢 Colorful racing turtles
-
 💥 Real-time race updates
-
 🏆 Win/Loss scoreboard
-
 🔄 Replay option
-
 🎉 Pop-up results and countdown animations
 
 ## 🧠 Tech Stack
